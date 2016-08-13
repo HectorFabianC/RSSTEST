@@ -1,0 +1,8 @@
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/android/support/v7/cardview/R.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/mx/uam/izt/rsstest/AssetCryptImpl.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/mx/uam/izt/rsstest/R.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/mx/uam/izt/rsstest/RssTestActivity.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/mx/uam/izt/rsstest/RssTestAppInfo.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/mx/uam/izt/rsstest/RssTestApplication.java"
+"/home/hector/Escritorio/Appcelerator_Studio_Workspace/RSS Test/build/android/gen/ti/modules/titanium/ui/R.java"
